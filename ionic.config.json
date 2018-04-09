@@ -1,0 +1,7 @@
+{
+  "name": "aeion4",
+  "type": "angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
